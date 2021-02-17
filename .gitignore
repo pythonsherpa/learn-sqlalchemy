@@ -133,3 +133,6 @@ database.db
 
 # PyCharm settings
 .idea
+
+# Solutions to the exercise
+solutions.py
