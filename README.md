@@ -16,8 +16,4 @@ Use the terminal in PyCharm to install the requirements:
 
 For the base functionality:
 
-`python learn_sqlalchemy/main.py`
-
-To learn about relationships between tables:
-
-`python learn_sqlalchemy/main_with_reviews.py`
+`python -m learn_sqlalchemy`

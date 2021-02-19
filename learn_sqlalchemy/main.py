@@ -1,8 +1,8 @@
 """
 Demo of the ORM functionality of SQLAlchemy.
 """
-from models import Product
-from db_session import session
+from learn_sqlalchemy.models import Product
+from learn_sqlalchemy.db_session import session
 
 
 def main():

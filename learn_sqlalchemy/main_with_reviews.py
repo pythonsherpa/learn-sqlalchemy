@@ -1,8 +1,8 @@
 """
 Demo relationships and foreign keys.
 """
-from models import Product, Review
-from db_session import session
+from learn_sqlalchemy.models import Product, Review
+from learn_sqlalchemy.db_session import session
 
 
 def main():
