@@ -1,3 +1,6 @@
+"""
+Demo relationships and foreign keys.
+"""
 from models import Product, Review
 from db_session import session
 

@@ -1,3 +1,6 @@
+"""
+Set up the connection to the database & create the tables.
+"""
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 

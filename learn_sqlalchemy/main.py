@@ -1,3 +1,6 @@
+"""
+Demo of the ORM functionality of SQLAlchemy.
+"""
 from models import Product
 from db_session import session
 
