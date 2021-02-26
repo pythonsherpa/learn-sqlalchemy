@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Database file
-database.db
+#database.db
 
 # PyCharm settings
 .idea

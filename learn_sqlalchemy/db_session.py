@@ -7,7 +7,7 @@ from sqlalchemy.orm import sessionmaker
 from learn_sqlalchemy.models import Base
 
 engine = create_engine(
-    "sqlite://",
+    "sqlite:///database.db",
     connect_args={"check_same_thread": False},
     echo=False,
 )
